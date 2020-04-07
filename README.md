@@ -3,9 +3,10 @@
 A sample Flutter UI.
 
 
-<img src="https://raw.githubusercontent.com/hhhrrrttt222111/chat_app_ui/master/screenshots/Screenshot_1586261188.png" height="600px">
+
 
 <img src="https://raw.githubusercontent.com/hhhrrrttt222111/chat_app_ui/master/screenshots/Screenshot_1586261178.png" height="600px" align="right">
+<img src="https://raw.githubusercontent.com/hhhrrrttt222111/chat_app_ui/master/screenshots/Screenshot_1586261188.png" height="600px">
 
 
 
